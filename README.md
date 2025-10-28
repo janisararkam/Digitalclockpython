@@ -1,5 +1,5 @@
 # Digitalclockpython
-PROJECT DESCRIPTION 
+"PROJECT DESCRIPTION" 
 This project is a Digital Clock built using Python and its Tkinter library.
 It displays the current time and date, updating automatically every second.
 Through this project, we learn how to build a Graphical User Interface (GUI) in Python and how to use the time module to fetch and format current time and date.
